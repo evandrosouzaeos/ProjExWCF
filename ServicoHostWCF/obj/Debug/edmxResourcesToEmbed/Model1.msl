@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="aulawcf2ModelStoreContainer" CdmEntityContainer="aulawcf2Entities">
+    <EntitySetMapping Name="empresa">
+      <EntityTypeMapping TypeName="aulawcf2Model.empresa">
+        <MappingFragment StoreEntitySet="empresa">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nome" ColumnName="nome" />
+          <ScalarProperty Name="qtdFuncionarios" ColumnName="qtdFuncionarios" />
+          <ScalarProperty Name="endereco" ColumnName="endereco" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

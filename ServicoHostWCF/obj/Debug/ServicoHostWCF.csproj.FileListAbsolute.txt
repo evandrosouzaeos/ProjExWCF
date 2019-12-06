@@ -1,0 +1,17 @@
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ServicoHostWCF\obj\Debug\ServicoHostWCF.csprojResolveAssemblyReference.cache
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ServicoHostWCF\obj\Debug\ServicoHostWCF.csproj.CoreCompileInputs.cache
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ServicoHostWCF\bin\Debug\ServicoHostWCF.exe.config
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ServicoHostWCF\bin\Debug\ServicoHostWCF.exe
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ServicoHostWCF\bin\Debug\ServicoHostWCF.pdb
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ServicoHostWCF\bin\Debug\Entidade.dll
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ServicoHostWCF\bin\Debug\Negocio.dll
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ServicoHostWCF\bin\Debug\ClassLibrary1.dll
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ServicoHostWCF\bin\Debug\Entidade.pdb
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ServicoHostWCF\bin\Debug\Negocio.pdb
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ServicoHostWCF\bin\Debug\ClassLibrary1.pdb
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ServicoHostWCF\obj\Debug\ServicoHostWCF.exe
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ServicoHostWCF\obj\Debug\ServicoHostWCF.pdb
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ServicoHostWCF\bin\Debug\EntityFramework.dll
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ServicoHostWCF\bin\Debug\Entidade.dll.config
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ServicoHostWCF\bin\Debug\EntityFramework.xml
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ServicoHostWCF\bin\Debug\ClassLibrary1.dll.config

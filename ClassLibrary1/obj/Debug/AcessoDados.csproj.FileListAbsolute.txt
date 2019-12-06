@@ -1,0 +1,14 @@
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ClassLibrary1\bin\Debug\Entidade.dll
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ClassLibrary1\bin\Debug\Entidade.pdb
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ClassLibrary1\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ClassLibrary1\obj\Debug\AcessoDados.csproj.CoreCompileInputs.cache
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ClassLibrary1\bin\Debug\Entidade.dll.config
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml

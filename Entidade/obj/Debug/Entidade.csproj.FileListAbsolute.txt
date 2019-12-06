@@ -1,0 +1,11 @@
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Entidade\bin\Debug\Entidade.dll
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Entidade\bin\Debug\Entidade.pdb
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Entidade\obj\Debug\Entidade.csprojResolveAssemblyReference.cache
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Entidade\obj\Debug\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Entidade\obj\Debug\Entidade.dll
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Entidade\obj\Debug\Entidade.pdb
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Entidade\bin\Debug\Entidade.dll.config
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Entidade\bin\Debug\EntityFramework.dll
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Entidade\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Entidade\bin\Debug\EntityFramework.xml
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Entidade\bin\Debug\EntityFramework.SqlServer.xml

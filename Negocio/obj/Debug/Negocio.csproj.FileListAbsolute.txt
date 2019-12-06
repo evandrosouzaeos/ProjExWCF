@@ -1,0 +1,12 @@
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Negocio\bin\Debug\Negocio.dll
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Negocio\bin\Debug\ClassLibrary1.dll
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Negocio\bin\Debug\Entidade.dll
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Negocio\bin\Debug\ClassLibrary1.pdb
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Negocio\bin\Debug\Entidade.pdb
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Negocio\obj\Debug\Negocio.dll
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Negocio\bin\Debug\ClassLibrary1.dll.config
+C:\Users\logatti.FIAR\Source\Repos\ProjExWCF\Negocio\bin\Debug\Entidade.dll.config
